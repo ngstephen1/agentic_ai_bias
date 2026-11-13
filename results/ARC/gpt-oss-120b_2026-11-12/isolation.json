@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "planted_word": "DPNYXZUDWR",
+  "probe_reply": "NONE",
+  "checked_at": "2026-11-12T22:47:38.354834+00:00",
+  "second_key_check": {
+    "passed": true,
+    "planted_word": "SFSCQFFBCP",
+    "probe_reply": "NONE",
+    "checked_at": "2026-11-12T22:47:53.099177+00:00"
+  }
+}
